@@ -1,4 +1,4 @@
-![logo](https://github.com/Techie-NEWBIE/Techie-NEWBIE/blob/main/discord-banner-gif-5.gif)
+![logo](https://github.com/Techie-NEWBIE/Techie-NEWBIE/blob/main/Matrix_Digital_rain_banner.gif)
 <h1 align="center">Hi 👋, I'm Ebin Varghese</h1>
 <h3 align="center">A passionate learner</h3>
 <img align="right" width="420" src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
