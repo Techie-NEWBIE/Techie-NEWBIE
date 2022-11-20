@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @Techie-NEWBIE
-- 👀 I’m interested in python,java,javascript,web development and game development.
-- 🌱 I’m currently learning Electrical and computer engineering in Toch insitute of science and technology.
-- 💞️ I’m looking to collaborate with someone who can help me exceed in program and improve my experience in coding
-- 📫 How to reach me ,Telegram   @eV0100
--                      Intagram  @_ebin_.v
--                      Gmail      ebinvarghese6233@gmail.com
+
