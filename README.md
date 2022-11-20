@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ebin Varghese</h1>
 <h3 align="center">A passionate learner from India</h3>
-<img align="center" width="800" src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fw%2FRuyK1a&psig=AOvVaw3dCkP5pusPK0Y7bMkxW68C&ust=1669030453447000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJi08YvVvPsCFQAAAAAdAAAAABAW">
+<img align="right" width="400" src="https://i.gifer.com/GYny.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techie-newbie&label=Profile%20views&color=0e75b6&style=flat" alt="techie-newbie" /> </p>
 
 - 🔭 I’m currently Studying in **TIST**
