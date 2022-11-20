@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ebin Varghese</h1>
-<h3 align="center">A passionate learner from India</h3>
-<img align="right" width="400" src="https://i.gifer.com/GYny.gif">
+<h3 align="center">A passionate learner</h3>
+<img align="right" width="420" src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techie-newbie&label=Profile%20views&color=0e75b6&style=flat" alt="techie-newbie" /> </p>
 
 - 🔭 I’m currently Studying in **TIST**
 
 - 🌱 I’m currently learning **Full Stack Web development, Python, Java**
 
-- 📫 How to reach me **ebinvarghese6233@gmail.com**
+- 📫 How to reach me : **email id    - ebinvarghese6233@gmail.com**,
+                       **Telegram id - @eV0100**
 
 - ⚡ Fun fact **I think i'm not funny**
 
